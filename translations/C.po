@@ -4,5 +4,32 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 
+msgid "Add new todo entry"
+msgstr ""
+
+msgid "Buy milk"
+msgstr ""
+
+msgid "Add Todo"
+msgstr ""
+
+msgid "To do app"
+msgstr ""
+
+msgid "The to do list"
+msgstr ""
+
+msgid "Your list of things to be done."
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
 msgid "To do"
 msgstr ""
